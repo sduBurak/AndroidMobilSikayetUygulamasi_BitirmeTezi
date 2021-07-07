@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="9"
+        android:text="ADINIZ "
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        />
+
+    <EditText
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="9"
+        android:text="SOYADINIZ "
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+
+        />
+
+    <EditText
+        android:id="@+id/editTextTextPostalAddress2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="9"
+        android:inputType="textPostalAddress"
+        android:text="ADRES "
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="9"
+        android:inputType="textEmailAddress"
+        android:text="E-MAİL"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+
+        />
+
+    <EditText
+        android:id="@+id/editTextTextPassword2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="9"
+        android:inputType="textPassword"
+        android:text="ŞİFRE"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        />
+
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KAYIT OL"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="550dp"
+        />
+
+
+</RelativeLayout>

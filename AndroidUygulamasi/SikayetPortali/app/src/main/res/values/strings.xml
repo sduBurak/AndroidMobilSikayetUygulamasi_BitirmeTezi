@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SikayetPortali</string>
+    <string name="create_new_account">YENİ HESAP OLUŞTUR</string>
+    <string name="I_have_account">HESABIM VAR</string>
+    <string name="guest_count">MİSAFİR GİRİŞ</string>
+</resources>
